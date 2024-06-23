@@ -1,0 +1,20 @@
+.navbar{
+	
+	height:7vh;
+	margin-bottom:50px;
+	margin-left:30px;
+	margin-right:30px;
+}
+.table{
+
+    margin-top:10px;
+}
+
+.navbar-brand{
+	
+	font-weight:bold;
+}
+.separate{
+	
+	margin:30px;
+}
